@@ -1,2 +1,2 @@
-@include('views.header')
-@include('views.footer')
+@include('header')
+@include('footer')
